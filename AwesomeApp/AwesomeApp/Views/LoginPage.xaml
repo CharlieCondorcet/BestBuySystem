@@ -16,8 +16,8 @@
                 Padding="0,20">
             </Label>
             <Image
+                WidthRequest="200"
                 Source="logo_best_buy">
-                
             </Image>
             <Label
                 Text="E-Mail">
