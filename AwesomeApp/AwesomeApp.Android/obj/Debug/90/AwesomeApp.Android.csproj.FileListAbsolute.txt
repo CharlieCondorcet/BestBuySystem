@@ -474,3 +474,4 @@ C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\9
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\res\drawable\logo_best_buy.png

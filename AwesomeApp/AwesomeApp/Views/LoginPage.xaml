@@ -15,6 +15,10 @@
                 Text="Login"
                 Padding="0,20">
             </Label>
+            <Image
+                Source="logo_best_buy">
+                
+            </Image>
             <Label
                 Text="E-Mail">
             </Label>
