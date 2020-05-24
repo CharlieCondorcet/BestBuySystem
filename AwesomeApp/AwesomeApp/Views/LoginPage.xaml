@@ -12,10 +12,10 @@
                 HorizontalOptions="Center"
                 FontAttributes="Bold"
                 FontSize="Large"
-                Text="Login">
+                Text="Login"
+                Padding="0,20">
             </Label>
             <Label
-                Padding="0,20"
                 Text="E-Mail">
             </Label>
             <Entry
@@ -23,13 +23,20 @@
                 Placeholder="Entry you E-Mail..">
             </Entry>
             <Label
-                Padding="0,20"
                 Text="Password">
             </Label>
             <Entry
                 IsPassword="True"
                 Placeholder="Entry you Pasword..">
             </Entry>
+            <ActivityIndicator>
+            </ActivityIndicator>
+            <Button
+                BackgroundColor="Navy"
+                Text="Login"
+                TextColor="White"
+                BorderRadius="25">
+            </Button>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
