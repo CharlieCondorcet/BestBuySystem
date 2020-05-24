@@ -17,5 +17,18 @@ namespace AwesomeApp
         {
             InitializeComponent();
         }
+
+        int count = 0;
+        void Handle_Clicked(object sender, System.EventArgs e)
+        {
+            count++;
+            ((Button)sender).Text = $"You clicked {count} times.";
+        }
+
+        void The_Actual_Hour(object sender, System.EventArgs e)
+        {
+            string lafecha = DateTime.Now.ToString("hh:mm:ss");
+            ((Button)sender).Text = $"The actual date is: {lafecha}";
+        }
     }
 }
