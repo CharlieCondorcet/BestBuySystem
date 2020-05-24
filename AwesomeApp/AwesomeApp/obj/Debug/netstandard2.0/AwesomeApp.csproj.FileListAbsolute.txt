@@ -5,6 +5,7 @@ C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\bin\Debug\netstanda
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csprojAssemblyReference.cache
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\App.xaml.g.cs
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfoInputs.cache
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.AssemblyInfo.cs
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp\obj\Debug\netstandard2.0\AwesomeApp.csproj.CoreCompileInputs.cache

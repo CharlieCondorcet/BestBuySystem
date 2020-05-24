@@ -1,6 +1,5 @@
-﻿using System;
+﻿using AwesomeApp.Views;
 using Xamarin.Forms;
-using Xamarin.Forms.Xaml;
 
 namespace AwesomeApp
 {
@@ -10,7 +9,7 @@ namespace AwesomeApp
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            this.MainPage = new LoginPage();
         }
 
         protected override void OnStart()

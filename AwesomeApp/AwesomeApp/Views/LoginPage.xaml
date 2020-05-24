@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="AwesomeApp.Views.LoginPage">
+    <ContentPage.Content>
+        <StackLayout
+            Padding="20,20,20,20">
+            <Label
+                HorizontalOptions="Center"
+                FontAttributes="Bold"
+                FontSize="Large"
+                Text="Login">
+            </Label>
+            <Label
+                Padding="0,20"
+                Text="E-Mail">
+            </Label>
+            <Entry
+                Keyboard="Email"
+                Placeholder="Entry you E-Mail..">
+            </Entry>
+            <Label
+                Padding="0,20"
+                Text="Password">
+            </Label>
+            <Entry
+                IsPassword="True"
+                Placeholder="Entry you Pasword..">
+            </Entry>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
