@@ -1,2 +1,2 @@
-AdbTarget=-s KBT4C19404001961
+AdbTarget=-s emulator-5554
 AdbOptions=

@@ -475,3 +475,6 @@ C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\9
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
 C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\res\drawable\logo_best_buy.png
+C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\res\drawable\facebook_logo.png
+C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\res\drawable\twitter_logo.png
+C:\Users\charl\source\repos\AwesomeApp\AwesomeApp\AwesomeApp.Android\obj\Debug\90\res\drawable\instagram_logo.png
